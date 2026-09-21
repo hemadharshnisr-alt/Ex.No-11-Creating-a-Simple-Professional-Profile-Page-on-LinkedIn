@@ -39,3 +39,5 @@ A simple, professional LinkedIn profile page is created, containing a profile ph
 Thus, a simple and professional profile page was successfully created on LinkedIn, with all essential sections filled in correctly and the profile made ready for sharing.
 ## CONCLUSION
 In conclusion, creating a LinkedIn profile is a simple but important step in building a professional online identity. By filling in accurate details across the Photo, Headline, About, Education, Experience, and Skills sections, students and faculty can present themselves professionally to recruiters, peers, and the wider academic and industry community.
+<img width="987" height="707" alt="image" src="https://github.com/user-attachments/assets/e1772cd8-0bc5-42f2-aa39-a66c2d6565c3" />
+
